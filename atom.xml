@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>happier&#39;s blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://happier2.github.io/"/>
   <updated>2017-12-18T12:47:48.130Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://happier2.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>happier</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/18/hello-world/"/>
-    <id>http://yoursite.com/2017/12/18/hello-world/</id>
+    <link href="http://happier2.github.io/2017/12/18/hello-world/"/>
+    <id>http://happier2.github.io/2017/12/18/hello-world/</id>
     <published>2017-12-18T12:47:48.117Z</published>
     <updated>2017-12-18T12:47:48.130Z</updated>
     
